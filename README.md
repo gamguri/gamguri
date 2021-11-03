@@ -2,7 +2,7 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning game
 - 💞️ I’m looking to collaborate on games
-- 📫 How to reach me games
+- 📫 How to reach me on games
 
 <---
 gamguri/gamguri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
